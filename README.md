@@ -1,6 +1,6 @@
 ## Description
 
-This repository contains the official [Beats][beats] Docker images from
+This repository contains the official [Beats][beats] Docker [images](https://hub.docker.com/r/elastic/filebeat) from
 [Elastic][elastic].
 
 Documentation can be found on the [Elastic website][elastic]:
